@@ -1,0 +1,3 @@
+### bluetooth railink RT5390  solution for working on Ubuntu(from askubuntu)
+
+####  sudo bccmd psset -s 0x0000 0x028c 0x0001
